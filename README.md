@@ -1,15 +1,19 @@
-ROAD ACCIDENT ANALYSIS DASHBOARD
+🚦 Road Accident Analysis Dashboard (2023)
 
-Completed an end-to-end Power BI dashboard project analyzing road accident data (2023) across North America, with a focus on understanding what factors contribute most to accidents and fatalities.
-Using data from the Fatality Analysis Reporting System (FARS), I cleaned and transformed raw accident records and built an interactive, multi-page dashboard that highlights:
+An end-to-end Power BI dashboard project analyzing road accident data across North America (2023) using the Fatality Analysis Reporting System (FARS) dataset.
+The project focuses on identifying key factors contributing to accidents and fatalities through interactive visual analytics.
 
-Key accident trends by vehicle type, weather conditions, light conditions, and collision type
+📌 Project Overview
+This dashboard transforms raw public safety data into actionable insights by analyzing:
 
-A fatality rate KPI to move beyond counts and measure accident severity
+Accident patterns across vehicle types
 
-Geographic patterns using latitude–longitude mapping to identify high-impact areas
+Impact of weather and light conditions
 
-Cause-level insights to understand why accidents occur, not just where or how many
+Collision types (MAN_COLL) and harmful events
 
-The goal of this project was to convert complex public safety data into clear, actionable insights 
-through thoughtful visualization and dashboard design, similar to how analytics is used in real-world traffic safety and policy analysis.
+Geographic trends using latitude–longitude mapping
+
+Accident severity using a Fatality Rate KPI
+
+The goal is to move beyond simple counts and understand why accidents occur and what factors increase fatal risk.
