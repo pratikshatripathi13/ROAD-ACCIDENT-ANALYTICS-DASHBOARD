@@ -1,4 +1,5 @@
 ROAD ACCIDENT ANALYSIS DASHBOARD
+
 Completed an end-to-end Power BI dashboard project analyzing road accident data (2023) across North America, with a focus on understanding what factors contribute most to accidents and fatalities.
 Using data from the Fatality Analysis Reporting System (FARS), I cleaned and transformed raw accident records and built an interactive, multi-page dashboard that highlights:
 
